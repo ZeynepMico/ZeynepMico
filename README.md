@@ -9,49 +9,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### [Smart Nutrition Assistant (Akıllı Besin Asistanı)](https://github.com/ZeynepMico/REPO_ADI)
-*TÜBİTAK 2209-A funded · Graduation thesis*
-
-Scans a product label or barcode and returns an explainable health risk score, allergen warnings and healthier alternatives.
-
-- Built a **4,506-product dataset** from the OpenFoodFacts API and web scraping
-- XGBoost pipeline reaching **85.66% R²** on the test set, with SHAP explanations turned into plain-language reasons
-- OpenCV + EasyOCR/Tesseract for ingredient and E-code extraction
-- Flutter (Android) + FastAPI + MySQL, backend deployed on Railway
-
-`Python` `XGBoost` `SHAP` `FastAPI` `MySQL` `OpenCV` `Flutter`
-
-### [Door Access Control – Card Reader & OCR Module](https://github.com/ZeynepMico/kart_okuma_ocr)
-*Team project · KSBÜ KUYAM*
-
-Real-time ID card detection from a live camera feed using OpenCV contour analysis, with EasyOCR reading Turkish/English text and parsing it into structured fields.
-
-`Python` `OpenCV` `EasyOCR` `NumPy`
-
-### [Advanced Serial Port & SSH Interface](https://github.com/ZeynepMico/pyqt-advanced-interface)
-*Internship project · NETA Elektronik*
-
-Desktop app that listens to, parses and logs real-time serial data, with multi-channel live plots, an interactive GPS map, SSH/SFTP remote management and role-based access.
-
-`Python` `PyQt5` `pyqtgraph` `SSH/SFTP`
-
-### [Client–Server Phone Book](https://github.com/ZeynepMico/phone_book)
-*Internship project · NETA Elektronik*
-
-PyQt6 client and multithreaded TCP server communicating over JSON, supporting concurrent clients, with unit and integration tests.
-
-`Python` `PyQt6` `TCP Sockets` `Threading`
-
-### [Fragments of Balance](https://github.com/ZeynepMico/REPO_ADI)
-
-2D platformer with 4 levels and a boss stage: a HingeJoint2D-based "repair the world" mechanic, Shader Graph lava, enemy AI and a wave-based boss system.
-
-`Unity` `C#` `Cinemachine` `Physics2D`
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
