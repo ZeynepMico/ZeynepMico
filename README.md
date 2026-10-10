@@ -1,6 +1,6 @@
 # Hi there, I'm Zeynep! 👋
 
-**Final-year Computer Engineering student** at Kütahya Health Sciences University, focused on **Machine Learning, Data Science and Backend development**.
+**Final-year Computer Engineering student** at Kütahya Sağlık Bilimleri University, focused on **Machine Learning, Data Science and Backend development**.
 
 - 🔬 Built a **TÜBİTAK 2209-A funded** research project end to end: dataset creation, feature engineering, XGBoost modelling, SHAP explainability, FastAPI service and a Flutter mobile app running in the cloud
 - 💼 Software Development Intern at **Cevhersys Yazılım A.Ş.** · previously Software Engineering Intern at **NETA Elektronik A.Ş.**
